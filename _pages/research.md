@@ -28,7 +28,7 @@ Mikel-Hong, K., Li, N., __Zhang, X.__, & Pan, J. Turnover Sequences and Cascades
 </p>
 
 
-Zhang, C., Li, N., Deng, Y, & __Zhang, X.__ A Paradox of Multiple Team Membership: Unpacking its Influence on Project Pacing Patterns. *Manuscript submitted*.
+Zhang, C., Li, N., Deng, Y, & __Zhang, X.__ A Paradox of Multiple Team Membership: Unpacking its Influence on Project Pacing Patterns. *Under Review*.
 
 
 

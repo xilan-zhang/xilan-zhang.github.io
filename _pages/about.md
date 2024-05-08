@@ -16,4 +16,4 @@ I am broadly interested in studying work, labor, and organization. Currently, my
 
 My name is prounounced "Ci-lan", with no "-tro" at the end. In my free time, I enjoy skiing and hunting for street art on electrical boxes.
 
-I will be pursuing a Ph.D. in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford University starting this fall. Please feel free to reach me at: [xilan.zhang01@gmail.com](mailto:xilan.zhang01@gmail.com) — I'm always open to new conversations!
+I will be pursuing a Ph.D. in [Management Science and Engineering](https://msande.stanford.edu/research-impact/research-areas#ote) at Stanford University starting this fall. Please feel free to reach me at: [xilan.zhang01@gmail.com](mailto:xilan.zhang01@gmail.com) — I'm always open to new conversations!

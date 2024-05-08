@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-My research is centered on the influence of socio-cultural contexts on individuals’ labor market and career outcomes. Specifically, my current exploration focuses on two key dimensions: (1) the impact of cultural contexts, including identity, beliefs, and values, and (2) the role of social networks. Bridging these dimensions, I aim to better understand how careers unfold, encompassing aspects from hiring to promotion, turnover, and entrepreneurial outcomes, and how inequalities are shaped.
+<!-- My research is centered on the influence of socio-cultural contexts on individuals’ labor market and career outcomes. Specifically, my current exploration focuses on two key dimensions: (1) the impact of cultural contexts, including identity, beliefs, and values, and (2) the role of social networks. Bridging these dimensions, I aim to better understand how careers unfold, encompassing aspects from hiring to promotion, turnover, and entrepreneurial outcomes, and how inequalities are shaped.
 
 Methodologically, I leverage both computational and experimental methods, including natural language processing, social network analysis, and randomized control trials. I am particularly interested in integrating big-data analytics with cutting-edge methods, aiming to drive theoretical advancements.
 
@@ -14,7 +14,7 @@ Methodologically, I leverage both computational and experimental methods, includ
 Areas of Interest
 ------
 
-Culture, Social Network, Labor Market, Career, Inequality
+Culture, Social Network, Labor Market, Career, Inequality -->
 
 
 Working Papers
